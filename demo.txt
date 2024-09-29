@@ -1,0 +1,2 @@
+Hey there!
+Welcome to merge and rebase operations.
